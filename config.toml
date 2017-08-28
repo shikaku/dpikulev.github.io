@@ -1,0 +1,25 @@
+baseURL = "http://d.pikulev.org/"
+languageCode = "en-US"
+title = "My personal site"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Github"
+weight                 = -100
+identifier             = "github"
+url                    = "http://github.com/shikaku"
+
+[params]
+author                 = "Denis Pikulev"
+avatar                 = "img/avatar.jpg"
+selfintro              = "Senior Front-end Developer"
+email                  = "pikulev.denis@gmail.com"
+github                 = "//github.com/shikaku"
+i18n_flags             = false
+lang                   = "en"
+cachebuster            = true
