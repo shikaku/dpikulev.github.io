@@ -3,7 +3,7 @@ languageCode = "en-US"
 title = "My personal site"
 
 [[menu.main]]
-name                   = "About"
+name                   = "About Me"
 weight                 = -110
 identifier             = "about"
 url                    = "/about/"
@@ -14,10 +14,16 @@ weight                 = -100
 identifier             = "github"
 url                    = "http://github.com/shikaku"
 
+[[menu.main]]
+name                   = "LinkedIn"
+weight                 = -90
+identifier             = "linkedin"
+url                    = "https://www.linkedin.com/in/dpikulev-cv/"
+
 [params]
 author                 = "Denis Pikulev"
 avatar                 = "img/avatar.jpg"
-selfintro              = "Senior Front-end Developer"
+selfintro              = "Team lead / Senior Front-end Developer"
 email                  = "pikulev.denis@gmail.com"
 github                 = "//github.com/shikaku"
 i18n_flags             = false
