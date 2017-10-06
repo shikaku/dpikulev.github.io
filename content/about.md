@@ -8,7 +8,7 @@ draft: false
 Hello, all!
 
 I'm experienced Front-end Developer with more than 10 years in web development.
-Mainly focused in creating Mobile Apps (React Native), SPA (single page application) based on web technologies (javascript/html/css). 
+Mainly focused in creating SPA (single page application) based on web technologies (javascript/html/css).
 Legacy projects but also acceptable for me.
 
 Regular work: currently working at one of the biggest E-commerce projects.

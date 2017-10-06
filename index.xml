@@ -18,7 +18,7 @@
       
       <guid>http://d.pikulev.org/about/</guid>
       <description>Hello, all!
-I&amp;rsquo;m experienced Front-end Developer with more than 10 years in web development. Mainly focused in creating Mobile Apps (React Native), SPA (single page application) based on web technologies (javascript/html/css). Legacy projects but also acceptable for me.
+I&amp;rsquo;m experienced Front-end Developer with more than 10 years in web development. Mainly focused in creating SPA (single page application) based on web technologies (javascript/html/css). Legacy projects but also acceptable for me.
 Regular work: currently working at one of the biggest E-commerce projects.
 Last project is: SPA for internal use. Used technologies and approaches: JavaScript (ES6), React as a View renderer, Redux as a mechanism for storing app&amp;rsquo;s state, Saga for asynchronous things, Immutable.</description>
     </item>
